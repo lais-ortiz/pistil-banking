@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="RatesExchangeApi" Version="1.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Pistil.Banking.Data\Pistil.Banking.Data.csproj" />
+    <ProjectReference Include="..\Pistil.Banking.Models\Pistil.Banking.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

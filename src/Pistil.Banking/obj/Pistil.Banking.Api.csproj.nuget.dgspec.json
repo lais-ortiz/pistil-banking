@@ -1,0 +1,348 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking\\Pistil.Banking.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking.Api.Models\\Pistil.Banking.Api.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking.Api.Models\\Pistil.Banking.Api.Models.csproj",
+        "projectName": "Pistil.Banking.Api.Models",
+        "projectPath": "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking.Api.Models\\Pistil.Banking.Api.Models.csproj",
+        "packagesPath": "C:\\Users\\lais_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking.Api.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lais_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/warrenbrasil/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking.Data\\Pistil.Banking.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking.Data\\Pistil.Banking.Data.csproj",
+        "projectName": "Pistil.Banking.Data",
+        "projectPath": "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking.Data\\Pistil.Banking.Data.csproj",
+        "packagesPath": "C:\\Users\\lais_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lais_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/warrenbrasil/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking.Models\\Pistil.Banking.Domain.csproj": {
+                "projectPath": "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking.Models\\Pistil.Banking.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking.Models\\Pistil.Banking.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking.Models\\Pistil.Banking.Domain.csproj",
+        "projectName": "Pistil.Banking.Domain",
+        "projectPath": "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking.Models\\Pistil.Banking.Domain.csproj",
+        "packagesPath": "C:\\Users\\lais_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lais_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/warrenbrasil/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking.Api.Models\\Pistil.Banking.Api.Models.csproj": {
+                "projectPath": "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking.Api.Models\\Pistil.Banking.Api.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking.Services\\Pistil.Banking.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking.Services\\Pistil.Banking.Services.csproj",
+        "projectName": "Pistil.Banking.Services",
+        "projectPath": "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking.Services\\Pistil.Banking.Services.csproj",
+        "packagesPath": "C:\\Users\\lais_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lais_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/warrenbrasil/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking.Data\\Pistil.Banking.Data.csproj": {
+                "projectPath": "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking.Data\\Pistil.Banking.Data.csproj"
+              },
+              "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking.Models\\Pistil.Banking.Domain.csproj": {
+                "projectPath": "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking.Models\\Pistil.Banking.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "RatesExchangeApi": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking\\Pistil.Banking.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking\\Pistil.Banking.Api.csproj",
+        "projectName": "Pistil.Banking.Api",
+        "projectPath": "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking\\Pistil.Banking.Api.csproj",
+        "packagesPath": "C:\\Users\\lais_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lais_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/warrenbrasil/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking.Api.Models\\Pistil.Banking.Api.Models.csproj": {
+                "projectPath": "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking.Api.Models\\Pistil.Banking.Api.Models.csproj"
+              },
+              "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking.Models\\Pistil.Banking.Domain.csproj": {
+                "projectPath": "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking.Models\\Pistil.Banking.Domain.csproj"
+              },
+              "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking.Services\\Pistil.Banking.Services.csproj": {
+                "projectPath": "C:\\Users\\lais_\\Desktop\\Pistil\\Pistil.Banking\\src\\Pistil.Banking.Services\\Pistil.Banking.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

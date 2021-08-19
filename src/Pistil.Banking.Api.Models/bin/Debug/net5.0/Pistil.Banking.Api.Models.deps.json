@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Pistil.Banking.Api.Models/1.0.0": {
+        "runtime": {
+          "Pistil.Banking.Api.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pistil.Banking.Api.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

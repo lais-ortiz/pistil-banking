@@ -1,0 +1,15 @@
+C:\Users\lais_\Desktop\Pistil\Pistil.Banking\src\Pistil.Banking.Models\bin\Debug\net5.0\Pistil.Banking.Domain.deps.json
+C:\Users\lais_\Desktop\Pistil\Pistil.Banking\src\Pistil.Banking.Models\bin\Debug\net5.0\Pistil.Banking.Domain.dll
+C:\Users\lais_\Desktop\Pistil\Pistil.Banking\src\Pistil.Banking.Models\bin\Debug\net5.0\ref\Pistil.Banking.Domain.dll
+C:\Users\lais_\Desktop\Pistil\Pistil.Banking\src\Pistil.Banking.Models\bin\Debug\net5.0\Pistil.Banking.Domain.pdb
+C:\Users\lais_\Desktop\Pistil\Pistil.Banking\src\Pistil.Banking.Models\obj\Debug\net5.0\Pistil.Banking.Domain.csprojAssemblyReference.cache
+C:\Users\lais_\Desktop\Pistil\Pistil.Banking\src\Pistil.Banking.Models\obj\Debug\net5.0\Pistil.Banking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lais_\Desktop\Pistil\Pistil.Banking\src\Pistil.Banking.Models\obj\Debug\net5.0\Pistil.Banking.Domain.AssemblyInfoInputs.cache
+C:\Users\lais_\Desktop\Pistil\Pistil.Banking\src\Pistil.Banking.Models\obj\Debug\net5.0\Pistil.Banking.Domain.AssemblyInfo.cs
+C:\Users\lais_\Desktop\Pistil\Pistil.Banking\src\Pistil.Banking.Models\obj\Debug\net5.0\Pistil.Banking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lais_\Desktop\Pistil\Pistil.Banking\src\Pistil.Banking.Models\obj\Debug\net5.0\Pistil.Banking.Domain.dll
+C:\Users\lais_\Desktop\Pistil\Pistil.Banking\src\Pistil.Banking.Models\obj\Debug\net5.0\ref\Pistil.Banking.Domain.dll
+C:\Users\lais_\Desktop\Pistil\Pistil.Banking\src\Pistil.Banking.Models\obj\Debug\net5.0\Pistil.Banking.Domain.pdb
+C:\Users\lais_\Desktop\Pistil\Pistil.Banking\src\Pistil.Banking.Models\bin\Debug\net5.0\Pistil.Banking.Api.Models.dll
+C:\Users\lais_\Desktop\Pistil\Pistil.Banking\src\Pistil.Banking.Models\bin\Debug\net5.0\Pistil.Banking.Api.Models.pdb
+C:\Users\lais_\Desktop\Pistil\Pistil.Banking\src\Pistil.Banking.Models\obj\Debug\net5.0\Pistil.Banking.Domain.csproj.CopyComplete

@@ -1,0 +1,17 @@
+C:\Users\lais_\Desktop\Pistil\Pistil.Banking\src\Pistil.Banking.Data\bin\Debug\net5.0\Pistil.Banking.Data.deps.json
+C:\Users\lais_\Desktop\Pistil\Pistil.Banking\src\Pistil.Banking.Data\bin\Debug\net5.0\Pistil.Banking.Data.dll
+C:\Users\lais_\Desktop\Pistil\Pistil.Banking\src\Pistil.Banking.Data\bin\Debug\net5.0\ref\Pistil.Banking.Data.dll
+C:\Users\lais_\Desktop\Pistil\Pistil.Banking\src\Pistil.Banking.Data\bin\Debug\net5.0\Pistil.Banking.Data.pdb
+C:\Users\lais_\Desktop\Pistil\Pistil.Banking\src\Pistil.Banking.Data\obj\Debug\net5.0\Pistil.Banking.Data.csprojAssemblyReference.cache
+C:\Users\lais_\Desktop\Pistil\Pistil.Banking\src\Pistil.Banking.Data\obj\Debug\net5.0\Pistil.Banking.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lais_\Desktop\Pistil\Pistil.Banking\src\Pistil.Banking.Data\obj\Debug\net5.0\Pistil.Banking.Data.AssemblyInfoInputs.cache
+C:\Users\lais_\Desktop\Pistil\Pistil.Banking\src\Pistil.Banking.Data\obj\Debug\net5.0\Pistil.Banking.Data.AssemblyInfo.cs
+C:\Users\lais_\Desktop\Pistil\Pistil.Banking\src\Pistil.Banking.Data\obj\Debug\net5.0\Pistil.Banking.Data.csproj.CoreCompileInputs.cache
+C:\Users\lais_\Desktop\Pistil\Pistil.Banking\src\Pistil.Banking.Data\obj\Debug\net5.0\Pistil.Banking.Data.dll
+C:\Users\lais_\Desktop\Pistil\Pistil.Banking\src\Pistil.Banking.Data\obj\Debug\net5.0\ref\Pistil.Banking.Data.dll
+C:\Users\lais_\Desktop\Pistil\Pistil.Banking\src\Pistil.Banking.Data\obj\Debug\net5.0\Pistil.Banking.Data.pdb
+C:\Users\lais_\Desktop\Pistil\Pistil.Banking\src\Pistil.Banking.Data\bin\Debug\net5.0\Pistil.Banking.Api.Models.dll
+C:\Users\lais_\Desktop\Pistil\Pistil.Banking\src\Pistil.Banking.Data\bin\Debug\net5.0\Pistil.Banking.Domain.dll
+C:\Users\lais_\Desktop\Pistil\Pistil.Banking\src\Pistil.Banking.Data\bin\Debug\net5.0\Pistil.Banking.Domain.pdb
+C:\Users\lais_\Desktop\Pistil\Pistil.Banking\src\Pistil.Banking.Data\bin\Debug\net5.0\Pistil.Banking.Api.Models.pdb
+C:\Users\lais_\Desktop\Pistil\Pistil.Banking\src\Pistil.Banking.Data\obj\Debug\net5.0\Pistil.Banking.Data.csproj.CopyComplete
